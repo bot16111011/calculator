@@ -27,6 +27,7 @@ const Calc = () => {
       setDisplay(display + value);
     }
   };
+
   
   return (
     <div className="calculator">
