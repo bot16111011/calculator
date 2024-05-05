@@ -28,7 +28,6 @@ const Calc = () => {
     }
   };
 
-  
   return (
     <div className="calculator">
       <div className="wrapper">
